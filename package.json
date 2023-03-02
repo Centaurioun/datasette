@@ -2,7 +2,7 @@
   "name": "datasette",
   "private": true,
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.8.4"
   },
   "scripts": {
     "fix": "npm run prettier -- --write",
